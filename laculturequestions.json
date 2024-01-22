@@ -1,0 +1,79 @@
+[
+    {
+        "category": "Général",
+        "question": "Quelle est la capitale de la France ?",
+        "options": [
+            "a) Berlin",
+            "b) Madrid",
+            "c) Paris",
+            "d) Rome"
+        ],
+        "answer": "c) Paris"
+    },
+    {
+        "category": "Science et Nature",
+        "question": "Quelle planète est connue comme la 'Planète Rouge' ?",
+        "options": [
+            "a) Mars",
+            "b) Jupiter",
+            "c) Venus",
+            "d) Mercure"
+        ],
+        "answer": "a) Mars"
+    },
+    {
+        "category": "Histoire",
+        "question": "Qui était le principal leader du mouvement indien pour l'indépendance contre la domination britannique ?",
+        "options": [
+            "a) Nelson Mandela",
+            "b) Mahatma Gandhi",
+            "c) Winston Churchill",
+            "d) Martin Luther King Jr."
+        ],
+        "answer": "b) Mahatma Gandhi"
+    },
+    {
+        "category": "Divertissement",
+        "question": "Dans quelle ville se déroule la série TV 'Friends' ?",
+        "options": [
+            "a) Los Angeles",
+            "b) New York",
+            "c) Miami",
+            "d) San Francisco"
+        ],
+        "answer": "b) New York"
+    },
+    {
+        "category": "Sport",
+        "question": "Qui a remporté la Coupe du Monde de la FIFA en 2018 ?",
+        "options": [
+            "a) Brésil",
+            "b) Allemagne",
+            "c) France",
+            "d) Argentine"
+        ],
+        "answer": "c) France"
+    },
+    {
+        "category": "Littérature",
+        "question": "Qui est l'auteur du roman '1984' ?",
+        "options": [
+            "a) George Orwell",
+            "b) Aldous Huxley",
+            "c) J.K. Rowling",
+            "d) Ernest Hemingway"
+        ],
+        "answer": "a) George Orwell"
+    },
+    {
+        "category": "Musique",
+        "question": "Qui a composé la célèbre pièce musicale 'La Cinquième Symphonie' ?",
+        "options": [
+            "a) Wolfgang Amadeus Mozart",
+            "b) Ludwig van Beethoven",
+            "c) Johann Sebastian Bach",
+            "d) Pyotr Ilyich Tchaikovsky"
+        ],
+        "answer": "b) Ludwig van Beethoven"
+    }
+]
