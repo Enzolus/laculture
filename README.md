@@ -10,11 +10,23 @@ LaCulture Quiz est un jeu de quiz interactif développé en Python. Il offre une
 - Questions aléatoires pour une nouvelle expérience à chaque jeu.
 
 ## Comment Jouer
-1. Clonez le dépôt sur votre machine locale :
+
+### Étape 1: Cloner le dépôt
+Pour commencer, clonez le dépôt sur votre machine locale en utilisant la commande suivante dans votre terminal :
+
+```bash
+git clone https://github.com/Enzolus/laculture.git
 
 2. Naviguez jusqu'au dossier du projet
 
+```bash
+cd laculture
+
 3. Exécutez le script Python
+
+```bash
+python laculture.py
+
     
 ## Contribution
 Les contributions à ce projet sont les bienvenues. Si vous souhaitez contribuer, veuillez suivre ces étapes :
