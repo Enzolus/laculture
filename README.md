@@ -16,16 +16,19 @@ Pour commencer, clonez le dépôt sur votre machine locale en utilisant la comma
 
 ```bash
 git clone https://github.com/Enzolus/laculture.git
+```
 
 2. Naviguez jusqu'au dossier du projet
 
 ```bash
 cd laculture
+```
 
 3. Exécutez le script Python
 
 ```bash
 python laculture.py
+```
 
     
 ## Contribution
