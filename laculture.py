@@ -5,10 +5,16 @@ with open('laculturequestions.json', 'r', encoding='utf-8') as file:
 
 def ask_question(question):
     print(question["question"])
-    for option in question["options"]:
-        print(option)
-    user_answer = input("Votre réponse (a, b, c, d) : ")
-    return user_answer.lower() == question["answer"][0].lower()
+    for idx, option in enumerate(question["options"], start=1):
+        print(f"{idx}. {option}")
+
+    user_answer = input("Votre réponse (1, 2, 3, 4) : ")
+    
+    try:
+        user_answer_idx = int(user_answer) - 1
+        return question["options"][user_answer_idx] == question["answer"]
+    except (ValueError, IndexError):
+        return False
 
 def run_quiz(questions):
     score = 0
